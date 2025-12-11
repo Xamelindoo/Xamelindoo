@@ -1,5 +1,5 @@
 ## 💫 Hi there!
-Im a student and tinkerer. I channel curiosity into functional code, exploring complex infrastructure setups (Pi-hole, Pterodactyl) and Full-Stack projects.
+Im a student and tinkerer. I channel curiosity into functional code, exploring complex infrastructure setups (Pi-hole, Pterodactyl, MariaDB, SQL, and many more on my personal homelab) and Full-Stack projects.
 
 
 ### 💻 Tech Stack:

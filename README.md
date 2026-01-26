@@ -1,5 +1,5 @@
 ## 💫 Hi there!
-Im a student and tinkerer. I channel curiosity into functional code, exploring complex infrastructure setups (Pi-hole, Pterodactyl, MariaDB, SQL, and many more on my personal homelab) and Full-Stack projects.
+Student & Tinkerer. I build software and manage my own hardware. Most of my time is spent between a terminal and my homelab, figuring out how systems work by putting them together myself. If I’m not writing code, I’m probably swapping parts or breaking my network.
 
 
 ### 💻 Tech Stack:

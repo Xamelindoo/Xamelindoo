@@ -16,6 +16,14 @@ I'm a huge **petrolhead** at heart: I love everything about engines, from workin
 
 ---
 
+### 🎬 Beyond Tech
+
+- 🏎️ Motorsport, cars & bikes — always.
+- 📺 Anime marathons — currently watching **Bleach**.
+- 🧪 Homelab tinkering — when the terminal calls.
+
+---
+
 ### 🛠️ Tech Stack
 
 I believe the best way to learn is by doing, so here's a breakdown of the tools and technologies I use across different areas.

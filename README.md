@@ -89,13 +89,7 @@ I believe the best way to learn is by doing, so here's a breakdown of the tools 
 
 ### 🏠 My Homelab
 
-My personal infrastructure is my sandbox for bridging the gap between IT theory and practical application. It's where I test new configurations, deploy services, and learn by trial and error.
-
-- **Hypervisor:** Proxmox VE (managing VMs and LXC containers)
-- **Firewall/Router:** OPNsense (network segmentation, VPN, IDS/IPS)
-- **Remote Access:** Tailscale (secure, zero-config mesh VPN)
-- **Password Management:** Bitwarden (self-hosted for full control)
-- **Media Automation:** Full *arr stack (Sonarr, Radarr, Lidarr, Readarr, Prowlarr, Bazarr, Whisparr) + Overseerr/Jellyseerr + Plex
+My personal infrastructure is my sandbox for bridging the gap between IT theory and practical application. It's where I test new configurations, deploy services, and learn by trial and error (proxmox VE 9.2.24).
 
 ---
 

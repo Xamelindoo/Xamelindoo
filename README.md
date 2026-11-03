@@ -26,7 +26,7 @@ I'm a huge **petrolhead** at heart: I love everything about engines, from workin
 
 ### 🛠️ Tech Stack
 
-I believe the best way to learn is by doing, so here's a breakdown of the tools and technologies I use across different areas.
+I believe the best way to learn is by doing, so here's a breakdown of the tools and technologies I use or have used across different areas.
 
 #### **💻 Development & Scripting**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)

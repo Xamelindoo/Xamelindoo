@@ -9,7 +9,7 @@
 
 I'm an IT student from Italy with a deep passion for software development and infrastructure. My happy place is right between a terminal and my homelab, where I learn by building, breaking, and fixing systems. When I'm not coding or configuring networks, you'll probably find me with my head under the hood of a car or watching motorsport.
 
-I'm a huge **petrolhead** at heart: I love everything about engines, from working on them to following **Formula 1, rally, and endurance racing**.
+I'm a huge **petrolhead** at heart: I love everything about engines, from working on them to following **Formula 1, rally, and endurance racing** (and many more).
 
 - 🔭 I’m currently working on my **homelab infrastructure** and personal projects.
 - 🌱 I’m currently learning more about **system architecture**, **networking**, and **automation**.
